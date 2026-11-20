@@ -20,6 +20,6 @@ Task 12 – Day-4 Design Challenge: Re-evaluate and Adapt
 
 Each task is provided as a separate PDF containing the corresponding assignment answer.
 
-GitHub: 
+GitHub: https://github.com/shahidshaik210109-dev/c-programming/tree/main
 
 The assignment is based on the Grama Jyothi Rural Electricity Co-operative billing program.
